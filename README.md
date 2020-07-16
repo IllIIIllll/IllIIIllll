@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hey, everyone. 👋
+Thank you for visiting.
+  
+I'm interested in machine learning and artificial intelligence.  
+Not good enough, but trying hard.
 
+<br>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://illiiillll.github.io/)](https://illiiillll.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/illiiillll/)](https://www.linkedin.com/in/illiiillll/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIllIIIllll)
 <!--
 **IllIIIllll/IllIIIllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
