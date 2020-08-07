@@ -1,7 +1,6 @@
 # JISUNG PARK
 
-![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=illiiillll.illiiillll)&nbsp;
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=illiiillll.illiiillll)
 
 ### Hey, everyone. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 Thank you for visiting.
@@ -12,7 +11,7 @@ Not good enough, but trying hard. 🌱
 <br>
 
 [![지성's github stats](https://github-readme-stats.vercel.app/api?username=illiiillll&show_icons=true&hide_border=true&theme=merko&count_private=true)](https://github.com/illiiillll)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illiiillll&theme=merko&layout=compact&hide=Jupyter+Notebook)](https://github.com/illiiillll)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illiiillll&theme=merko&layout=compact)](https://github.com/illiiillll)
 
 <br>
 
